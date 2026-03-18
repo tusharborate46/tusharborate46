@@ -76,15 +76,6 @@
     <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-
----
-
-## 🐍 Contribution Snake (Animation)
-
-<p align="center">
-  <img src="https://github.com/tusharborate46/tusharborate46/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## ⚡ Profile Views
