@@ -53,8 +53,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharborate46&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=tusharborate46&theme=onedark" /></p>
 ---
 
 ## 📈 Activity Graph
