@@ -67,10 +67,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Tushar Borate">
+  <a href="https://linkedin.com/in/tushar-borate-ba7a792b6">
     <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:boratetushar46@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
