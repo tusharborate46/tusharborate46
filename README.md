@@ -84,4 +84,4 @@
 
 ---
 
-<h3 align="center">✨ "Code. Learn. Build. Repeat." ✨</h3>
+<h3 align="center">✨ "Learn. Code. Build. Repeat." ✨</h3>
