@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=50&lines=%3E+Initializing+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+Full+Stack+Developer+%F0%9F%9A%80;%3E+MERN+Stack+%7C+MySQL+%7C+IoT;%3E+Building+real-world+solutions;%3E_" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+🚀;MERN+Stack+Builder;Problem+Solver+⚡;Building+real-world+solutions" />
 
 </div>
 
@@ -24,8 +24,6 @@
 ---
 
 ## ⚡ `> whoami`
-
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98078216A428666f014e3d485/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 ```bash
 ╔══════════════════════════════════════╗
