@@ -68,7 +68,7 @@ $ cat tushar.json
 |:---|:---|:---|
 | **Student Achievement Wall of Fame** | Node.js · MySQL · HTML/CSS/JS | Web portal to manage & showcase student achievements |
 | **Gesture Recognition Device** | Sensors · Microcontroller · Embedded C | IoT device detecting real-time hand gestures |
-| **Personal Portfolio** | HTML · CSS · JavaScript | Responsive portfolio with projects & skills |
+| **WFH-WatchFace** | HTML · CSS · JavaScript | Privacy-first Work From Home employee monitoring system using local face recognition. |
 
 </div>
 
