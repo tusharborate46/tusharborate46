@@ -30,8 +30,8 @@ $ cat tushar.json
   "role"      : "Full Stack Developer",
   "education" : "Computer Engineering Student",
   "stack"     : "MERN + MySQL",
-  "building"  : "Student Achievement Wall of Fame 🏆",
-  "learning"  : "MongoDB 🔥",
+  "building"  : "WFH-WatchFace",
+  "learning"  : "Networking 🔥",
   "collab"    : true,
   "coffee"    : "☕ always"
 }
