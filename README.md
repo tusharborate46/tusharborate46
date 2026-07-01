@@ -66,9 +66,9 @@ $ cat tushar.json
 
 | 🏆 Project | 🧰 Stack | ✨ What it does |
 |:---|:---|:---|
+| **WFH-WatchFace** | HTML · CSS · JavaScript | Privacy-first Work From Home employee monitoring system using local face recognition. |
 | **Student Achievement Wall of Fame** | Node.js · MySQL · HTML/CSS/JS | Web portal to manage & showcase student achievements |
 | **Gesture Recognition Device** | Sensors · Microcontroller · Embedded C | IoT device detecting real-time hand gestures |
-| **WFH-WatchFace** | HTML · CSS · JavaScript | Privacy-first Work From Home employee monitoring system using local face recognition. |
 | **Resilient-Offline-Mesh-Communication-Protocol** | HTML · Java · Kotlin | A BLE-based offline mesh network that securely relays messages between nearby Android devices until internet becomes available. |
 | **Anki Clone** | HTML · CSS · Java · JavaScript | An Anki-inspired flashcard learning application for a DBMS academic project that helps users create, manage, and study flashcards.|
 
