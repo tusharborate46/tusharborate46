@@ -139,5 +139,5 @@ MongoDB      ████████░░░░░░░░░░░░░   4
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:00F7FF&height=130&section=footer&text=Learn.+Code.+Build.+Repeat.&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65)
-a
+
 </div>
